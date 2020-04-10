@@ -86,7 +86,7 @@ function App() {
           rel="noopener noreferrer">covidcase</a>
         </div>
         <a
-          href="https://github.com/yash42828/COVID-19-CASE-TRACKER"
+          href="https://github.com/yash42828/COVID-19-CASE-TRACKER-INDIA"
           className="button github"
           target="_blank"
           rel="noopener noreferrer"
